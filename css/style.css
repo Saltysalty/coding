@@ -59,7 +59,7 @@ p a:hover {
 }
 #header ul {
 	margin: 0;
-	padding: 56px 0 0;
+	padding: 0 0 0;
 }
 #header ul li {
 	display: inline;
@@ -71,7 +71,7 @@ p a:hover {
 	color: #252525;
 	display: inline-block;
 	font-family: "Arial Black", Gadget, sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: normal;
 	margin: 0;
 	padding: 0 0 3px;
@@ -386,9 +386,28 @@ p a:hover {
 	text-indent: -99999px;
 	width: 44px;
 
+}
+#footer div ul li #twitter {
+	background-position: 0 0;
+}
+#footer div ul li #twitter:hover {
+	background-position: -44px 0;
+}
 #footer div ul li #facebook {
 	background-position: 0 -44px;
 }
 #footer div ul li #facebook:hover {
 	background-position: -44px -44px;
+}
+#footer div ul li #googleplus {
+	background-position: 0 -88px;
+}
+#footer div ul li #googleplus:hover {
+	background-position: -44px -88px;
+}
+#footer div ul li #pinterest {
+	background-position: 0 -132px;
+}
+#footer div ul li #pinterest:hover {
+	background-position: -44px -132px;
 }
