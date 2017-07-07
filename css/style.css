@@ -235,7 +235,7 @@ p a:hover {
 	color: #000;
 	display: inline-block;
 	font-family: poller_oneregular;
-	font-size: 20px;
+	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 18px;
 	padding: 23px 27px 20px;
@@ -385,28 +385,10 @@ p a:hover {
 	padding: 0;
 	text-indent: -99999px;
 	width: 44px;
-}
-#footer div ul li #twitter {
-	background-position: 0 0;
-}
-#footer div ul li #twitter:hover {
-	background-position: -44px 0;
-}
+
 #footer div ul li #facebook {
 	background-position: 0 -44px;
 }
 #footer div ul li #facebook:hover {
 	background-position: -44px -44px;
-}
-#footer div ul li #googleplus {
-	background-position: 0 -88px;
-}
-#footer div ul li #googleplus:hover {
-	background-position: -44px -88px;
-}
-#footer div ul li #pinterest {
-	background-position: 0 -132px;
-}
-#footer div ul li #pinterest:hover {
-	background-position: -44px -132px;
 }
