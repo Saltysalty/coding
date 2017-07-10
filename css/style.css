@@ -410,3 +410,8 @@ p a:hover {
 #footer div ul li #pinterest:hover {
 	background-position: -44px -132px;
 }
+#body > div .logo {
+	margin: 0 auto;
+	padding: 30px 30px 0;
+	width: 560px;
+}
